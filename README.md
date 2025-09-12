@@ -1,3 +1,3 @@
 Welcome to the PHYS 3001/3002 Repository!
 
-This is where all of the coding assignments for the homework can be found. To gain access to the code
+This is where all of the coding assignments for the homework can be found. To gain access to the code simply click on the file needed for the homework problem and click the download button located in the top right side of the screen. This will download a Jupyter Notebook file you can open on your own device or on one of the lab computers. From there you are free to edit this version of the code on your own. This code downloaded onto your device can then be uploaded, as a .ipynb file, along with written homework assignments in canvas for grading. If you have any questions please email Grant Sooy at sooygm@mail.uc.edu ASAP so everything can be figured out.
